@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cm3l10e7smpqt"
+path="res://.godot/imported/pop-39222.mp3-918764e170d079048dc909def8ae7ac0.mp3str"
+
+[deps]
+
+source_file="res://Art/sound effects/pop-39222.mp3"
+dest_files=["res://.godot/imported/pop-39222.mp3-918764e170d079048dc909def8ae7ac0.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
